@@ -1,0 +1,3 @@
+main: org.KXCR_beep.plugin.Main
+version: 0.1
+name: My Plugin
